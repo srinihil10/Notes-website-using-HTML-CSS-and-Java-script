@@ -1,0 +1,1 @@
+use proper extension for HTML, CSS and JS on VScode.
